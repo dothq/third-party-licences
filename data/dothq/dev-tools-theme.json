@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "dothq/dev-tools-theme",
+        "tree": "master",
+        "service": "NodeService",
+        "manifest_file": "/package.json",
+        "dependencies": []
+    }
+]

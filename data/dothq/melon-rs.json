@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "dothq/melon-rs",
+        "tree": "main",
+        "service": "CargoService",
+        "manifest_file": "/Cargo.toml",
+        "dependencies": []
+    }
+]

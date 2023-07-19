@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "dothq/id",
+        "tree": "main",
+        "service": "NodeService",
+        "manifest_file": "/package.json",
+        "dependencies": []
+    }
+]

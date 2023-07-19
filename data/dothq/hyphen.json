@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "dothq/hyphen",
+        "tree": "main",
+        "service": "CargoService",
+        "manifest_file": "/src/cdn/Cargo.toml",
+        "dependencies": []
+    }
+]

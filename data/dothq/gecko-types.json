@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "dothq/gecko-types",
+        "tree": "main",
+        "service": "NodeService",
+        "manifest_file": "/package.json",
+        "dependencies": []
+    }
+]
