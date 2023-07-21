@@ -336,7 +336,7 @@
             {
                 "dependency": {
                     "name": "eslint-plugin-react",
-                    "version": "7.32.2"
+                    "version": "7.33.0"
                 },
                 "licenses": [
                     {
