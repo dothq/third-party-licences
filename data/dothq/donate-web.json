@@ -8,7 +8,7 @@
             {
                 "dependency": {
                     "name": "@remix-run/react",
-                    "version": "1.19.0"
+                    "version": "1.19.1"
                 },
                 "licenses": [
                     {
@@ -21,7 +21,7 @@
             {
                 "dependency": {
                     "name": "@remix-run/serve",
-                    "version": "1.19.0"
+                    "version": "1.19.1"
                 },
                 "licenses": [
                     {
@@ -34,7 +34,7 @@
             {
                 "dependency": {
                     "name": "@remix-run/vercel",
-                    "version": "1.19.0"
+                    "version": "1.19.1"
                 },
                 "licenses": [
                     {
@@ -73,7 +73,7 @@
             {
                 "dependency": {
                     "name": "remix",
-                    "version": "1.19.0"
+                    "version": "1.19.1"
                 },
                 "licenses": [
                     {
@@ -86,7 +86,7 @@
             {
                 "dependency": {
                     "name": "@remix-run/dev",
-                    "version": "1.19.0"
+                    "version": "1.19.1"
                 },
                 "licenses": [
                     {

@@ -867,7 +867,7 @@
             {
                 "dependency": {
                     "name": "sass",
-                    "version": "1.64.0"
+                    "version": "1.64.1"
                 },
                 "licenses": [
                     {
