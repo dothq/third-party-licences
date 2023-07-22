@@ -403,7 +403,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "18.16.20"
+                    "version": "18.17.0"
                 },
                 "licenses": [
                     {
