@@ -333,7 +333,7 @@
             {
                 "dependency": {
                     "name": "esbuild",
-                    "version": "0.18.15"
+                    "version": "0.18.16"
                 },
                 "licenses": [
                     {
