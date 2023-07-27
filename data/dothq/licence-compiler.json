@@ -125,7 +125,7 @@
             {
                 "dependency": {
                     "name": "octokit",
-                    "version": "3.0.0"
+                    "version": "3.1.0"
                 },
                 "licenses": [
                     {
@@ -333,7 +333,7 @@
             {
                 "dependency": {
                     "name": "esbuild",
-                    "version": "0.18.16"
+                    "version": "0.18.17"
                 },
                 "licenses": [
                     {
