@@ -216,7 +216,7 @@
             {
                 "dependency": {
                     "name": "fastify",
-                    "version": "4.20.0"
+                    "version": "4.21.0"
                 },
                 "licenses": [
                     {
@@ -559,7 +559,7 @@
             {
                 "dependency": {
                     "name": "jest",
-                    "version": "29.6.1"
+                    "version": "29.6.2"
                 },
                 "licenses": [
                     {
