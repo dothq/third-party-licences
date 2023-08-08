@@ -583,7 +583,7 @@
             {
                 "dependency": {
                     "name": "@types/validator",
-                    "version": "13.9.0"
+                    "version": "13.11.1"
                 },
                 "licenses": [
                     {

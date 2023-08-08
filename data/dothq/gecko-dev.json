@@ -822,7 +822,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -1569,7 +1569,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -1660,7 +1660,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -2289,7 +2289,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -2302,7 +2302,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -2547,7 +2547,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -2560,7 +2560,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -2792,7 +2792,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -2805,7 +2805,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -3892,7 +3892,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -3957,7 +3957,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -4188,7 +4188,7 @@
             {
                 "dependency": {
                     "name": "@babel/cli",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -4201,7 +4201,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {

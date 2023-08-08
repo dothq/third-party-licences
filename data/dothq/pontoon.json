@@ -1057,7 +1057,7 @@
             {
                 "dependency": {
                     "name": "@babel/cli",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -1070,7 +1070,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -1083,7 +1083,7 @@
             {
                 "dependency": {
                     "name": "@babel/eslint-parser",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -1109,7 +1109,7 @@
             {
                 "dependency": {
                     "name": "@babel/plugin-transform-runtime",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -1122,7 +1122,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.9"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
@@ -1148,7 +1148,7 @@
             {
                 "dependency": {
                     "name": "@babel/runtime",
-                    "version": "7.22.6"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {

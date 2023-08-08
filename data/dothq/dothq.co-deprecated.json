@@ -138,7 +138,7 @@
             {
                 "dependency": {
                     "name": "@babel/plugin-proposal-decorators",
-                    "version": "7.22.7"
+                    "version": "7.22.10"
                 },
                 "licenses": [
                     {
