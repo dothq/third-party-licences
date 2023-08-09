@@ -416,7 +416,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "18.17.3"
+                    "version": "18.17.4"
                 },
                 "licenses": [
                     {
@@ -481,7 +481,7 @@
             {
                 "dependency": {
                     "name": "compare-versions",
-                    "version": "6.0.0"
+                    "version": "6.1.0"
                 },
                 "licenses": [
                     {

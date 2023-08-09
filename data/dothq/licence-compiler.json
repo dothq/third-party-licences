@@ -268,7 +268,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "20.4.8"
+                    "version": "20.4.9"
                 },
                 "licenses": [
                     {
@@ -333,7 +333,7 @@
             {
                 "dependency": {
                     "name": "esbuild",
-                    "version": "0.18.19"
+                    "version": "0.18.20"
                 },
                 "licenses": [
                     {
