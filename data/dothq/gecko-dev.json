@@ -3131,7 +3131,7 @@
             {
                 "dependency": {
                     "name": "rollup",
-                    "version": "3.27.2"
+                    "version": "3.28.0"
                 },
                 "licenses": [
                     {
