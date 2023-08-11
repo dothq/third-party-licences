@@ -223,7 +223,7 @@
             {
                 "dependency": {
                     "name": "react-router-dom",
-                    "version": "6.14.2"
+                    "version": "6.15.0"
                 },
                 "licenses": [
                     {
