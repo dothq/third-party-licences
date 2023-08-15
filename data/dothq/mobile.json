@@ -47,7 +47,7 @@
             {
                 "dependency": {
                     "name": "@types/react-native-vector-icons",
-                    "version": "6.4.13"
+                    "version": "6.4.14"
                 },
                 "licenses": [
                     {
