@@ -415,12 +415,12 @@
             {
                 "dependency": {
                     "name": "modernizr",
-                    "version": "3.12.0"
+                    "version": "3.13.0"
                 },
                 "licenses": [
                     {
                         "path": "/LICENSE",
-                        "data": "/*! Modernizr 3.12.0 | MIT  */",
+                        "data": "/*! Modernizr 3.13.0 | MIT  */",
                         "spdx": "MIT"
                     }
                 ]

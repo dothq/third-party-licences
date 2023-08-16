@@ -576,7 +576,7 @@
             {
                 "dependency": {
                     "name": "postcss",
-                    "version": "8.4.27"
+                    "version": "8.4.28"
                 },
                 "licenses": [
                     {
