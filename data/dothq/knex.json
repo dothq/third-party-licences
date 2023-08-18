@@ -177,7 +177,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "16.18.40"
+                    "version": "16.18.41"
                 },
                 "licenses": [
                     {

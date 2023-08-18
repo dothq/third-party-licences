@@ -1751,7 +1751,7 @@
             {
                 "dependency": {
                     "name": "@rollup/plugin-node-resolve",
-                    "version": "15.1.0"
+                    "version": "15.2.0"
                 },
                 "licenses": [
                     {
@@ -4671,7 +4671,7 @@
             {
                 "dependency": {
                     "name": "playwright-core",
-                    "version": "1.37.0"
+                    "version": "1.37.1"
                 },
                 "licenses": [
                     {
