@@ -416,7 +416,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "18.17.5"
+                    "version": "18.17.6"
                 },
                 "licenses": [
                     {
@@ -624,7 +624,7 @@
             {
                 "dependency": {
                     "name": "sass",
-                    "version": "1.66.0"
+                    "version": "1.66.1"
                 },
                 "licenses": [
                     {
