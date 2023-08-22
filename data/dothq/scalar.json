@@ -559,7 +559,7 @@
             {
                 "dependency": {
                     "name": "jest",
-                    "version": "29.6.2"
+                    "version": "29.6.3"
                 },
                 "licenses": [
                     {
