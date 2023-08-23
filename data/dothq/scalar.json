@@ -403,7 +403,7 @@
             {
                 "dependency": {
                     "name": "@types/jest",
-                    "version": "29.5.3"
+                    "version": "29.5.4"
                 },
                 "licenses": [
                     {
@@ -416,7 +416,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "18.17.6"
+                    "version": "18.17.8"
                 },
                 "licenses": [
                     {
@@ -494,7 +494,7 @@
             {
                 "dependency": {
                     "name": "concurrently",
-                    "version": "8.2.0"
+                    "version": "8.2.1"
                 },
                 "licenses": [
                     {
