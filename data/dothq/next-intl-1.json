@@ -310,7 +310,7 @@
             {
                 "dependency": {
                     "name": "next-intl",
-                    "version": "2.19.2"
+                    "version": "2.20.0"
                 },
                 "licenses": [
                     {
@@ -396,7 +396,7 @@
             {
                 "dependency": {
                     "name": "use-intl",
-                    "version": "2.19.2"
+                    "version": "2.20.0"
                 },
                 "licenses": [
                     {
