@@ -822,7 +822,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -1556,7 +1556,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -1569,7 +1569,7 @@
             {
                 "dependency": {
                     "name": "@babel/parser",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -1673,7 +1673,7 @@
             {
                 "dependency": {
                     "name": "@babel/plugin-transform-modules-commonjs",
-                    "version": "7.22.5"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -2315,7 +2315,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -2573,7 +2573,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -2818,7 +2818,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -3918,7 +3918,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -4227,7 +4227,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -4240,7 +4240,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-typescript",
-                    "version": "7.22.5"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {

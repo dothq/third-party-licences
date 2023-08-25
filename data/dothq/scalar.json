@@ -416,7 +416,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "18.17.9"
+                    "version": "18.17.11"
                 },
                 "licenses": [
                     {
@@ -559,7 +559,7 @@
             {
                 "dependency": {
                     "name": "jest",
-                    "version": "29.6.3"
+                    "version": "29.6.4"
                 },
                 "licenses": [
                     {

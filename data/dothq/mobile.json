@@ -203,7 +203,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
@@ -216,7 +216,7 @@
             {
                 "dependency": {
                     "name": "@babel/runtime",
-                    "version": "7.22.10"
+                    "version": "7.22.11"
                 },
                 "licenses": [
                     {
