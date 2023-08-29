@@ -359,7 +359,7 @@
             {
                 "dependency": {
                     "name": "yaml",
-                    "version": "2.3.1"
+                    "version": "2.3.2"
                 },
                 "licenses": [
                     {
@@ -416,7 +416,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "18.17.11"
+                    "version": "18.17.12"
                 },
                 "licenses": [
                     {
