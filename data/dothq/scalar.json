@@ -442,7 +442,7 @@
             {
                 "dependency": {
                     "name": "@types/ua-parser-js",
-                    "version": "0.7.36"
+                    "version": "0.7.37"
                 },
                 "licenses": [
                     {
