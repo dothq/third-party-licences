@@ -229,7 +229,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "14.18.56"
+                    "version": "14.18.57"
                 },
                 "licenses": [
                     {
