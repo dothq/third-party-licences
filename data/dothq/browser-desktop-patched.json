@@ -1384,7 +1384,7 @@
             {
                 "dependency": {
                     "name": "@babel/plugin-transform-modules-commonjs",
-                    "version": "7.22.11"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -1397,7 +1397,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.14"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -1410,7 +1410,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-react",
-                    "version": "7.22.5"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -1423,7 +1423,7 @@
             {
                 "dependency": {
                     "name": "@babel/register",
-                    "version": "7.22.5"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2168,7 +2168,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.11"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2181,7 +2181,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.14"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2194,7 +2194,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-flow",
-                    "version": "7.22.5"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2426,7 +2426,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.11"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2439,7 +2439,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.14"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2452,7 +2452,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-flow",
-                    "version": "7.22.5"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2671,7 +2671,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.11"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2684,7 +2684,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.14"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -2697,7 +2697,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-flow",
-                    "version": "7.22.5"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -3611,7 +3611,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.11"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -3663,7 +3663,7 @@
             {
                 "dependency": {
                     "name": "@babel/register",
-                    "version": "7.22.5"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {

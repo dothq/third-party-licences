@@ -8,7 +8,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.11"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
@@ -21,7 +21,7 @@
             {
                 "dependency": {
                     "name": "@babel/register",
-                    "version": "7.22.5"
+                    "version": "7.22.15"
                 },
                 "licenses": [
                     {
