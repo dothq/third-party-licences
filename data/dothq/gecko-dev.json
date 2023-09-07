@@ -1569,7 +1569,7 @@
             {
                 "dependency": {
                     "name": "@babel/parser",
-                    "version": "7.22.15"
+                    "version": "7.22.16"
                 },
                 "licenses": [
                     {
@@ -2797,7 +2797,7 @@
             {
                 "dependency": {
                     "name": "webpack",
-                    "version": "4.46.0"
+                    "version": "4.47.0"
                 },
                 "licenses": [
                     {
@@ -2896,7 +2896,7 @@
             {
                 "dependency": {
                     "name": "webpack",
-                    "version": "4.46.0"
+                    "version": "4.47.0"
                 },
                 "licenses": [
                     {
@@ -2956,7 +2956,7 @@
             {
                 "dependency": {
                     "name": "webpack",
-                    "version": "4.46.0"
+                    "version": "4.47.0"
                 },
                 "licenses": [
                     {
@@ -3063,7 +3063,7 @@
             {
                 "dependency": {
                     "name": "webpack",
-                    "version": "4.46.0"
+                    "version": "4.47.0"
                 },
                 "licenses": [
                     {
@@ -3157,7 +3157,7 @@
             {
                 "dependency": {
                     "name": "rollup",
-                    "version": "3.28.1"
+                    "version": "3.29.0"
                 },
                 "licenses": [
                     {
@@ -3837,7 +3837,7 @@
             {
                 "dependency": {
                     "name": "webpack",
-                    "version": "4.46.0"
+                    "version": "4.47.0"
                 },
                 "licenses": [
                     {
@@ -3884,7 +3884,7 @@
             {
                 "dependency": {
                     "name": "webpack",
-                    "version": "4.46.0"
+                    "version": "4.47.0"
                 },
                 "licenses": [
                     {
