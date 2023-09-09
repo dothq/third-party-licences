@@ -177,7 +177,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "16.18.48"
+                    "version": "16.18.50"
                 },
                 "licenses": [
                     {
@@ -307,7 +307,7 @@
             {
                 "dependency": {
                     "name": "eslint",
-                    "version": "8.48.0"
+                    "version": "8.49.0"
                 },
                 "licenses": [
                     {

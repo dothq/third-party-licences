@@ -268,7 +268,7 @@
             {
                 "dependency": {
                     "name": "node-html-parser",
-                    "version": "6.1.6"
+                    "version": "6.1.8"
                 },
                 "licenses": [
                     {
@@ -416,7 +416,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "18.17.14"
+                    "version": "18.17.15"
                 },
                 "licenses": [
                     {
