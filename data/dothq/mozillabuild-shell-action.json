@@ -8,7 +8,7 @@
             {
                 "dependency": {
                     "name": "@actions/core",
-                    "version": "1.10.0"
+                    "version": "1.10.1"
                 },
                 "licenses": [
                     {
