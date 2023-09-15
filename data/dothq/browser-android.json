@@ -73,7 +73,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.17"
+                    "version": "7.22.19"
                 },
                 "licenses": [
                     {

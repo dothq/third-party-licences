@@ -242,7 +242,7 @@
             {
                 "dependency": {
                     "name": "@types/fs-extra",
-                    "version": "11.0.1"
+                    "version": "11.0.2"
                 },
                 "licenses": [
                     {
@@ -294,7 +294,7 @@
             {
                 "dependency": {
                     "name": "@types/semver",
-                    "version": "7.5.1"
+                    "version": "7.5.2"
                 },
                 "licenses": [
                     {
