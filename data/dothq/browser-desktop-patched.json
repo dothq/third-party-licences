@@ -1397,7 +1397,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.15"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {
@@ -2168,7 +2168,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.19"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {
@@ -2181,7 +2181,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.15"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {
@@ -2426,7 +2426,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.19"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {
@@ -2439,7 +2439,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.15"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {
@@ -2671,7 +2671,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.19"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {
@@ -2684,7 +2684,7 @@
             {
                 "dependency": {
                     "name": "@babel/preset-env",
-                    "version": "7.22.15"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {
@@ -3611,7 +3611,7 @@
             {
                 "dependency": {
                     "name": "@babel/core",
-                    "version": "7.22.19"
+                    "version": "7.22.20"
                 },
                 "licenses": [
                     {

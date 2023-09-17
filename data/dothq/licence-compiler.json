@@ -268,7 +268,7 @@
             {
                 "dependency": {
                     "name": "@types/node",
-                    "version": "20.6.1"
+                    "version": "20.6.2"
                 },
                 "licenses": [
                     {
