@@ -47,7 +47,7 @@
             {
                 "dependency": {
                     "name": "postcss",
-                    "version": "8.4.29"
+                    "version": "8.4.30"
                 },
                 "licenses": [
                     {
