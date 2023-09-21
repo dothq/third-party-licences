@@ -21,7 +21,7 @@
             {
                 "dependency": {
                     "name": "glob",
-                    "version": "10.3.4"
+                    "version": "10.3.5"
                 },
                 "licenses": [
                     {
